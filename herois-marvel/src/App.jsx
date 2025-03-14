@@ -1,4 +1,6 @@
 import { useState } from 'react';
+import { api } from './api.js';
+import Home from './home.js';
 
 function App() {
 
